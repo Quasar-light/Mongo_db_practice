@@ -1,0 +1,1 @@
+con_str = 'mongodb+srv://<abcd>:<sanders18>data_clean_pipeline@cluster0.t8d6sj6.mongodb.net/?retryWrites=true&w=majority'
